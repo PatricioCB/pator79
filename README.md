@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pator79
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning CSS, Responsive, SASS, Flexbox, Grid y Bootstrap
+- 🌱 I’m currently learning Python, CSS, Responsive, SASS, Flexbox, Grid and Bootstrap.
 
 <!---
 pator79/pator79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
